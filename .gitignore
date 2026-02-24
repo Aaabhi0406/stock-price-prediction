@@ -1,0 +1,16 @@
+# virtual environment
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit cache
+.streamlit/
+
+# system files
+.DS_Store
+
+# large / optional files
+nse_all_stock_data (1).csv
